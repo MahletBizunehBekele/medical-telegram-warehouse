@@ -1,0 +1,88 @@
+2026-06-28 19:57:18,369 INFO Connecting to 149.154.167.92:443/TcpFull...
+2026-06-28 19:57:19,540 INFO Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-28 19:58:54,049 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 19:59:29,200 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:00:11,015 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:00:19,601 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:00:28,334 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:00:44,392 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:00:54,873 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:02,108 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:10,134 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:15,984 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:21,420 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:27,684 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:31,983 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:36,055 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:43,129 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:48,076 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:01:54,608 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:02:02,229 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:02:10,993 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:02:18,919 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:02:30,301 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:02:36,022 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:02:44,666 INFO Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:02:54,484 INFO Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-28 20:05:56,085 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-06-28 20:05:56,232 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-28 20:06:00,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:05,033 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:10,536 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:12,521 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:15,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:18,854 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:22,459 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:24,532 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:29,411 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:33,906 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:40,465 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:45,121 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:48,999 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:06:53,588 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:01,675 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:07,928 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:18,731 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:26,912 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:36,634 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:43,188 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:52,076 - INFO - CheMed123: 50 messages scraped, 20 images downloaded.
+2026-06-28 20:07:53,194 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:07:59,581 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:08:01,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:08:05,098 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:08:08,325 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:08:46,726 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:08:53,442 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:08:59,420 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:06,996 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:09,656 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:13,007 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:17,515 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:20,314 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:21,924 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:27,148 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:33,962 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:35,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:43,287 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:09:50,945 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:10:00,033 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:10:08,976 - INFO - lobelia4cosmetics: 50 messages scraped, 20 images downloaded.
+2026-06-28 20:10:12,357 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:10:18,868 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:10:21,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:10:37,180 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:10:49,815 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:10:57,047 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:11:16,322 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:11:23,879 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:11:41,923 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:11:49,192 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:11:55,943 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:12:00,523 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:12:16,132 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:12:22,462 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:12:49,520 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-28 20:12:55,816 - INFO - tikvahpharma: 50 messages scraped, 15 images downloaded.
+2026-06-28 20:12:55,819 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-28 20:12:55,819 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
