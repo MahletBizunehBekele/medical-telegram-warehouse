@@ -6,3 +6,10 @@ psycopg2-binary
 pandas
 dbt-postgres
 pytest
+ultralytics 
+opencv-python 
+fastapi 
+uvicorn 
+sqlalhemy 
+dagster 
+dagster-webserver

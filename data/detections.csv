@@ -1,0 +1,58 @@
+message_id,channel_name,detected_class,confidence_score,image_category
+71,CheMed123,"person,person",0.8835616707801819,lifestyle
+74,CheMed123,,,other
+75,CheMed123,person,0.8353006839752197,lifestyle
+76,CheMed123,"person,chair,chair",0.8694228529930115,lifestyle
+77,CheMed123,"bottle,bottle,bottle,bottle",0.9558238387107849,product_display
+78,CheMed123,"person,person",0.7698578834533691,lifestyle
+79,CheMed123,,,other
+80,CheMed123,"person,bottle,chair",0.9279417395591736,promotional
+81,CheMed123,"bottle,bottle,bottle,bottle,bottle",0.8817968964576721,product_display
+82,CheMed123,"bottle,bottle,bottle,apple",0.899173378944397,product_display
+85,CheMed123,,,other
+86,CheMed123,"person,refrigerator",0.9013167023658752,lifestyle
+87,CheMed123,parking meter,0.2785613536834717,other
+88,CheMed123,,,other
+90,CheMed123,book,0.3078012764453888,other
+91,CheMed123,,,other
+92,CheMed123,,,other
+93,CheMed123,person,0.9076734185218811,lifestyle
+94,CheMed123,"cup,person,cup",0.7408689260482788,promotional
+95,CheMed123,"person,person",0.8684403896331787,lifestyle
+96,CheMed123,cup,0.3260039687156677,product_display
+97,CheMed123,,,other
+26677,lobelia4cosmetics,,,other
+26678,lobelia4cosmetics,"orange,teddy bear",0.3177710473537445,other
+26679,lobelia4cosmetics,bottle,0.90584796667099,product_display
+26680,lobelia4cosmetics,person,0.8004419803619385,lifestyle
+26681,lobelia4cosmetics,bottle,0.7406821846961975,product_display
+26682,lobelia4cosmetics,,,other
+26683,lobelia4cosmetics,"cup,cup,book",0.7179237604141235,product_display
+26684,lobelia4cosmetics,book,0.2522212564945221,other
+26685,lobelia4cosmetics,,,other
+26686,lobelia4cosmetics,"sports ball,sports ball",0.36803123354911804,other
+26687,lobelia4cosmetics,book,0.2522212564945221,other
+26688,lobelia4cosmetics,"cell phone,donut",0.44216012954711914,other
+26689,lobelia4cosmetics,bottle,0.6767725944519043,product_display
+26690,lobelia4cosmetics,"bottle,cake",0.3789406418800354,product_display
+26691,lobelia4cosmetics,,,other
+26692,lobelia4cosmetics,,,other
+26693,lobelia4cosmetics,,,other
+26694,lobelia4cosmetics,cell phone,0.319579154253006,other
+26695,lobelia4cosmetics,"person,stop sign",0.6775978207588196,lifestyle
+26696,lobelia4cosmetics,,,other
+196355,tikvahpharma,,,other
+196356,tikvahpharma,"tv,microwave,clock",0.6953582763671875,other
+196367,tikvahpharma,,,other
+196368,tikvahpharma,,,other
+196369,tikvahpharma,refrigerator,0.33576500415802,other
+196370,tikvahpharma,laptop,0.7089229822158813,other
+196383,tikvahpharma,"laptop,bottle",0.8312309384346008,product_display
+196384,tikvahpharma,laptop,0.908444881439209,other
+196409,tikvahpharma,,,other
+196410,tikvahpharma,,,other
+196411,tikvahpharma,refrigerator,0.33576500415802,other
+196412,tikvahpharma,"laptop,bottle",0.8312309384346008,product_display
+196413,tikvahpharma,laptop,0.908444881439209,other
+196417,tikvahpharma,,,other
+196418,tikvahpharma,microwave,0.5242670774459839,other
